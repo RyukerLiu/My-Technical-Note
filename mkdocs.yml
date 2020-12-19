@@ -1,4 +1,4 @@
-site_name: My MkDocs
+site_name: My Technical Note
 nav:
     - User Guide: index.md
 theme: readthedocs
