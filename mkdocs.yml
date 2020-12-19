@@ -1,4 +1,20 @@
 site_name: My Technical Note
+site_url: https://my-technical-note.netlify.app/
+site_author: Allen Liu
+site_description: "My technical note written with MkDocs"
+repo_url: "https://github.com/RyukerLiu/My-Technical-Note"
+
+theme:
+  name: null
+  custom_dir: cinder
+  colorscheme: github
+  highlightjs: true
+
 nav:
-    - User Guide: index.md
-theme: readthedocs
+  - Home: index.md
+  - About: about.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
