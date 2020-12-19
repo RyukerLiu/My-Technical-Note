@@ -12,7 +12,18 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
+  - Learning Note:
+    - Aggreate vs Annotate Sum: Learning Note/Aggreate vs Annotate Sum.md
+    - OO多型與架構: Learning Note/OO_ploy.md
+    - CORS: Learning Note/CORS.md
+    - CSRF: Learning Note/CSRF.md
+    - Design Patterns: Learning Note/Design Patterns.md
+    - DNS Domain and Subdomain: Learning Note/DNS Domain and Subdomain.md
+    - Kubenetes Port: Learning Note/Kubenetes Port.md
+    - 如何使用 plantuml: Learning Note/如何使用 plantuml.md
+  - Resources:
+    - 12 Factor: Resources/12 Factor.md
+    - AI: Resources/AI.md
 
 markdown_extensions:
   - admonition
