@@ -3,6 +3,7 @@ site_url: https://my-technical-note.netlify.app/
 site_author: Allen Liu
 site_description: "My technical note written with MkDocs"
 repo_url: "https://github.com/RyukerLiu/My-Technical-Note"
+edit_uri: "edit/main/docs/"
 
 theme:
   name: null
