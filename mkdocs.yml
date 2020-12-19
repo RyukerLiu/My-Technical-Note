@@ -1,0 +1,4 @@
+site_name: My MkDocs
+nav:
+    - User Guide: index.md
+theme: readthedocs
